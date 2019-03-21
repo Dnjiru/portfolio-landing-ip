@@ -1,12 +1,44 @@
+
+#nav-bar {
+    background-color: rgb(105, 42, 42);
+    color: whitesmoke;
+    font-size: 16px;
+    width:80%;
+	margin:auto;
+	overflow:hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+#nav-bar ul {
+    list-style: none;
+    
+
+}
+
+#nav-bar li {
+    padding-right:15px;
+    display: inline
+
+
+}
+
+#portrait {
+    height: 330px;
+}
+
+
+
+
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
         color: white;
     }
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 900px) {
   body {
-    background-color: yellowgreen;
+    background-color: rgb(205, 50, 58);
   }
   .column {
     width: 220px;
