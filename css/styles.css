@@ -1,7 +1,7 @@
 .body {
     align-content: center;
     font-size: 16px;
-    font-style: open Sans; 
+    font-style: 'Open Sans', sans-serif;
 }
 
 #nav-bar {
@@ -33,6 +33,11 @@
      width: 400px;
  }
 
+ #boxes h2 {
+     //border: solid white 2px;
+
+
+ }
 @media screen and (min-width: 480px) {
     body {
         background-color: black;
