@@ -33,9 +33,9 @@
      width: 400px;
  }
 
- #boxes h2 {
-     //border: solid white 2px;
-
+ #boxes  {
+     border: solid white 2px;
+     padding: 5px;
 
  }
 @media screen and (min-width: 480px) {
