@@ -15,3 +15,7 @@ Developed on HTML and styled on CSS.
 It is unlikely to fall into any support issue, however, in case of any. please get in touch with the developer i=on mr.mwaniki@gmail.com
 ### License
 MIT License
+
+## Link to the site
+You can access the site through the link 
+https://dnjiru.github.io/portfolio-landing-ip/
