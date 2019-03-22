@@ -46,7 +46,8 @@
   .column {
     width: 30%;
     float: left;
-    padding: 20px;
+    padding: 10px;
+    border: solid white 2px;
   }
 }
   
